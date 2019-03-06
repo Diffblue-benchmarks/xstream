@@ -217,7 +217,7 @@
     <module>xstream</module>
     <module>xstream-hibernate</module>
     <module>xstream-jmh</module>
-    <module>xstream-benchmark</module>
+    <!-- <module>xstream-benchmark</module> -->
     <module>xstream-distribution</module>
   </modules>
 
